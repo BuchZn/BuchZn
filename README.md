@@ -27,4 +27,4 @@ I am a **[Your Role]** specializing in building digital monoliths. Currently dri
 | CSS | Docker / K8s | HTML |
 
 ### 📡 Signal Strength
-[![trophy](https://github-profile-trophy.vercel.app/?username=fabian.buchenberger@gmx.de&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=fabian.buchenberger@gmx.de)](https://github.com/ryo-ma/github-profile-trophy)
