@@ -29,3 +29,5 @@ I am a **[Your Role]** specializing in building digital monoliths. Currently dri
 ### 📡 Signal Strength
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=79ffad&text_color=a1b0d0)
 
+[![trophy](https://github-readme-trophy.vercel.app/?username=yourusername&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
