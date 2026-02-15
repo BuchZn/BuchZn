@@ -28,5 +28,4 @@ I am a **[Your Role]** specializing in building digital monoliths. Currently dri
 
 ### 📡 Signal Strength
 
-[![trophy](https://github-readme-trophy.vercel.app/?username=yourusername&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+https://github-profile-trophy.vercel.app/?username=BuchZn&theme=dracula
