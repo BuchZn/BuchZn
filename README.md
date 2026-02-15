@@ -26,5 +26,4 @@ I am a **[Your Role]** specializing in building digital monoliths. Currently dri
 | C ++| C | Python |
 | CSS | Docker / K8s | HTML |
 
-### 📡 Signal Strength
-[![trophy](https://github-profile-trophy.vercel.app/?username=BuchZn)](https://github.com/ryo-ma/github-profile-trophy)
+
