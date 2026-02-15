@@ -2,11 +2,11 @@
 
 ### A studying C/Python developer
 
-- 🔭 I'm currently working on **An QR-Code Commandline Tool **
+- 🔭 I'm currently working on **An QR-Code Commandline Tool**
 
-- 🌱 I'm currently learning **Verilog,Python Machine learning **
+- 🌱 I'm currently learning **Verilog,Python Machine learning**
 
-- 👯 I'm looking to collaborate on **Open Source Prpjects**
+- 👯 I'm looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **fabian.buchenberger@gmx.de**
 
