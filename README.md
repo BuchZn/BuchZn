@@ -27,5 +27,4 @@ I am a **[Your Role]** specializing in building digital monoliths. Currently dri
 | CSS | Docker / K8s | HTML |
 
 ### 📡 Signal Strength
-
-https://github-profile-trophy.vercel.app/?username=BuchZn&theme=dracula
+[![trophy](https://github-profile-trophy.vercel.app/?username=BuchZn&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
